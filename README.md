@@ -68,3 +68,20 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+Packegs needed to run the project are
+1.emailjs
+install command :- npm install @emailjs/browser
+Application :- Used to implement the contact form
+2.font icons
+install command :-
+npm install @fortawesome/free-brands-svg-icons //used to access the font icons.
+npm install @fortawesome/free-solid-svg-icons //used for navigation on left
+npm install @fortawesome/react-fontawesome //wrapup for font awesome to use it easily
+npm install animate.css //css library for animations.
+npm install gsap-trial //css library for advanced animations.
+npm install loaders.css // library for loader
+npm install react-leaflet //wrapup library for using leaflet maps
+npm install react-loaders // loader to react integration
+npm install react-router-dom //Navigating between pages
+npm install sass //It helps to write less code and some operation like "for" in variables.
